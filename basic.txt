@@ -1,0 +1,9 @@
+Basic Cpp Codes
+
+cout << "Hello World" << endl;
+
+cout << "Sum of two numbers" << a+b << endl;
+
+cout << "Difference of two numbers" << a-b << endl;
+
+
