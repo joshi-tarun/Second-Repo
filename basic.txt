@@ -8,4 +8,14 @@ cout << "Difference of two numbers" << a-b << endl;
 
 cout << "Product of two numbers" << a*b << endl;
 
-cout << "Division of two numbers" << a/b << endl; 
+cout << "Division of two numbers" << a/b << endl;
+
+Vector
+
+Declare a vector
+
+vector<int> v;
+
+Push back an element in a vector
+
+v.push_back(x);
